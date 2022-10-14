@@ -1,4 +1,4 @@
 # Machine-Learning-Exercise
 Stanford University Machine Learning exercise solution for certification in coursera.
 
-language used- Matlab
+Programming Language used- Matlab
