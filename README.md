@@ -1,2 +1,2 @@
 # Machine-Learning-Exercise
-Coursera_exercise
+Stanford University Machine Learning exercise solution for certification in coursera.
